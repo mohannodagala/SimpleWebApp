@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> **** FILPKART GIVES OFFER FRON 1ST JULY**** </h1>   
+         <h1> **** iphone 14 pro price is 1,00,000 Only**** </h1>   
 	 
 
     </section>    
