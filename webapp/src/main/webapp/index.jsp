@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> **** FILPKART GIVES OFFER FRON 1ST JUly**** </h1>   
+         <h1> **** FILPKART GIVES OFFER FRON 1ST JULY**** </h1>   
 	 
 
     </section>    
